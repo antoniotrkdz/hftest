@@ -11,6 +11,7 @@ The ___with-secure-login___ branch is accessing the secure API endpoint(s), logi
 This branch is also making use of [axios](https://www.npmjs.com/package/axios).
 
 ## Getting started
+For more information visit [this link](https://bitbucket.org/healthefrog/ni)
 
 Clone the repo and checkout into the desired branch
 
